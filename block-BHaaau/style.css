@@ -1,0 +1,103 @@
+body{
+    margin-bottom: 90px;
+}
+.container{
+    text-align: center;
+    width: 85%;
+    margin: 0 auto;
+}
+h2{
+    font-size: 35px;
+    font-style: italic;
+}
+.exercise1{
+    margin-top: 40px;
+    font-size: 25px;
+}
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: chocolate;
+    border: 15px aquamarine solid;
+}
+hr{
+    width: 40%;
+    border: 0.5px dotted aquamarine;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.para-container{
+    background-color: purple;
+    padding: 10px 25px;
+    display: inline-block;
+}
+.dotted {
+    margin: 20px 0;
+    
+}
+.dot{
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+.dot1{
+    background-color: grey;
+}
+.dot2{
+    background-color: aqua;
+}
+.dot3{
+    background-color: rgba(0,0,0,1);
+}
+.dot4{
+    background-color: pink;
+}
+section{
+    font-style: italic;
+}
+.para{
+    font-size: 24px;
+    /* font-style: italic; */
+    font-weight: bold;
+}
+.box2{
+    width: 153px;
+    height: 97px;
+    background-color:#cccccc;
+    display: inline-block;
+    margin: 0 15px;
+}
+.box3{
+    background-color:#cccccc;
+    display: inline-block;
+    width: 153px;
+    height: 97px;
+    margin-left: -306px;
+    margin-right: -35px;
+    border: 2px solid #999;
+}
+.box4{
+    background-color:#cccccc;
+    width: 153px;
+    height: 97px;
+    margin-left: -4px;
+    margin-top: 10px;
+    border: 2px solid #999; 
+}
+.box5{
+    width: 153px;
+    height: 97px;
+    background-color:#cccccc;
+    display: inline-block;
+    margin: 0 15px;
+    border: 2px solid #999; 
+}
+.container1{
+    width: 600px;
+    border: 2px solid silver;
+    padding: 10px;
+    margin: 0 auto;
+    height: auto;
+}
